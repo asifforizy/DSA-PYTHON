@@ -9,3 +9,16 @@ while num>0:
 
 
 print("total count ", count)
+
+
+# use logarithm 
+from math import *
+
+def countDigits(num1):
+    result = log10(num1)+1
+    
+    return result // 1
+
+
+num1 =766776434
+print(countDigits(num1))
