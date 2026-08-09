@@ -27,5 +27,4 @@ for num in m:
         print(hashList[num])
         
         
-# using dict
 
