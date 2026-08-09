@@ -58,3 +58,11 @@ def  sumOfN(sum,i,n):
     sumOfN(sum+i,i+1,n)
 
 sumOfN(0,1,10)
+
+
+def sumN(n):
+    if n ==1:
+        return 1
+    return n+sumN(n-1)
+
+print(sumN(100))
