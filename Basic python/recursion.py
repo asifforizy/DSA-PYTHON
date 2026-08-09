@@ -19,7 +19,7 @@ greet1()
 
 
 
-#! recursion 
+#! head recursion 
 
 
 def func(count):
@@ -46,3 +46,15 @@ def func1(count):
     print(" hi!")
     
 func1(count = 0)
+
+
+#! functional recursion  
+#? sum of n natural number
+
+def  sumOfN(sum,i,n):
+    if i > n:
+        print(sum)
+        return
+    sumOfN(sum+i,i+1,n)
+
+sumOfN(0,1,10)
