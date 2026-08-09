@@ -25,3 +25,7 @@ for num in m:
         print(0)
     else:
         print(hashList[num])
+        
+        
+# using dict
+
