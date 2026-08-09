@@ -33,3 +33,16 @@ def func(count):
     func(count)
     
 func(count = 0)
+
+#! tail recursion 
+def func1(count):
+    
+   
+    if count == 4:
+        return
+    
+    count +=1
+    func1(count)
+    print(" hi!")
+    
+func1(count = 0)
