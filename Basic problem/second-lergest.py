@@ -32,3 +32,25 @@ def second_largest(nums):
 nums = [2, 4, 7, 4, 2, 7, 4, 9, 11, 35]
 
 print(second_largest(nums))
+
+
+#! optimal solution
+
+def second_largest(nums):
+    largest = float('-inf')
+    second = float('-inf')
+
+    for num in nums:
+        if num > largest:
+            second = largest
+            largest = num
+        elif num > second and num != largest:
+            second = num
+
+    return second
+
+
+nums = [2, 4, 7, 4, 2, 7, 4, 9, 11, 35]
+
+print(second_largest(nums))
+
