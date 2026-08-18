@@ -8,6 +8,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -16,4 +17,5 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
