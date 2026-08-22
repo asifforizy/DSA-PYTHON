@@ -9,6 +9,7 @@ This repository contains Python implementations of commonly used data structures
 | ------- |
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Binary Search
@@ -62,4 +64,8 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
