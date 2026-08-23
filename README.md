@@ -10,6 +10,7 @@ This repository contains Python implementations of commonly used data structures
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
@@ -61,6 +62,7 @@ This repository contains Python implementations of commonly used data structures
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asifforizy/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -70,5 +72,6 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
