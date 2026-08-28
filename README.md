@@ -35,6 +35,7 @@ This repository contains Python implementations of commonly used data structures
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/asifforizy/DSA-PYTHON/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asifforizy/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -82,4 +83,8 @@ This repository contains Python implementations of commonly used data structures
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/asifforizy/DSA-PYTHON/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
