@@ -26,6 +26,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
+| [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -48,6 +49,7 @@ This repository contains Python implementations of commonly used data structures
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/asifforizy/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asifforizy/DSA-PYTHON/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -103,4 +105,5 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
