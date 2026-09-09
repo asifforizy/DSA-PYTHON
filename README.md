@@ -35,6 +35,7 @@ This repository contains Python implementations of commonly used data structures
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/asifforizy/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asifforizy/DSA-PYTHON/tree/master/0142-linked-list-cycle-ii) |
+| [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/asifforizy/DSA-PYTHON/tree/master/0876-middle-of-the-linked-list) |
@@ -98,4 +99,8 @@ This repository contains Python implementations of commonly used data structures
 | ------- |
 | [0141-linked-list-cycle](https://github.com/asifforizy/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asifforizy/DSA-PYTHON/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
