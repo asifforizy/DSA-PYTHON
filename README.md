@@ -106,6 +106,15 @@ This repository contains Python implementations of commonly used data structures
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
