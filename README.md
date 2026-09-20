@@ -25,6 +25,7 @@ This repository contains Python implementations of commonly used data structures
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
