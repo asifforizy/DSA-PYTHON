@@ -8,6 +8,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/asifforizy/DSA-PYTHON/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
@@ -61,6 +62,7 @@ This repository contains Python implementations of commonly used data structures
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/asifforizy/DSA-PYTHON/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/asifforizy/DSA-PYTHON/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -76,6 +78,7 @@ This repository contains Python implementations of commonly used data structures
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/asifforizy/DSA-PYTHON/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
