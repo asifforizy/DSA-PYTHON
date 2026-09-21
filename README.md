@@ -8,6 +8,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/asifforizy/DSA-PYTHON/tree/master/0035-search-insert-position) |
@@ -111,6 +112,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/asifforizy/DSA-PYTHON/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
@@ -126,4 +128,8 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/asifforizy/DSA-PYTHON/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
