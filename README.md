@@ -50,6 +50,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asifforizy/DSA-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/asifforizy/DSA-PYTHON/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
@@ -113,6 +114,7 @@ This repository contains Python implementations of commonly used data structures
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asifforizy/DSA-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/asifforizy/DSA-PYTHON/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
@@ -135,4 +137,8 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asifforizy/DSA-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
