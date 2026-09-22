@@ -9,6 +9,7 @@ This repository contains Python implementations of commonly used data structures
 | ------- |
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/asifforizy/DSA-PYTHON/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/asifforizy/DSA-PYTHON/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
@@ -39,6 +40,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asifforizy/DSA-PYTHON/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/asifforizy/DSA-PYTHON/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asifforizy/DSA-PYTHON/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -157,4 +159,8 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asifforizy/DSA-PYTHON/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/asifforizy/DSA-PYTHON/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
