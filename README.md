@@ -95,6 +95,7 @@ This repository contains Python implementations of commonly used data structures
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asifforizy/DSA-PYTHON/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/asifforizy/DSA-PYTHON/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -139,6 +140,7 @@ This repository contains Python implementations of commonly used data structures
 | [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 ## Stack
@@ -149,6 +151,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -175,4 +178,5 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
