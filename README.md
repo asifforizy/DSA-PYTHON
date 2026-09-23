@@ -12,6 +12,7 @@ This repository contains Python implementations of commonly used data structures
 | [0011-container-with-most-water](https://github.com/asifforizy/DSA-PYTHON/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/asifforizy/DSA-PYTHON/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/asifforizy/DSA-PYTHON/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
@@ -43,6 +44,7 @@ This repository contains Python implementations of commonly used data structures
 | [0005-longest-palindromic-substring](https://github.com/asifforizy/DSA-PYTHON/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/asifforizy/DSA-PYTHON/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/asifforizy/DSA-PYTHON/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asifforizy/DSA-PYTHON/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/asifforizy/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
@@ -79,6 +81,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/asifforizy/DSA-PYTHON/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Divide and Conquer
