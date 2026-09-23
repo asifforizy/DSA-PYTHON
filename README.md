@@ -31,6 +31,7 @@ This repository contains Python implementations of commonly used data structures
 | [0002-add-two-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/asifforizy/DSA-PYTHON/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/asifforizy/DSA-PYTHON/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/asifforizy/DSA-PYTHON/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
@@ -56,6 +57,7 @@ This repository contains Python implementations of commonly used data structures
 | ------- |
 | [0001-two-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asifforizy/DSA-PYTHON/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/asifforizy/DSA-PYTHON/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/asifforizy/DSA-PYTHON/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
@@ -128,6 +130,7 @@ This repository contains Python implementations of commonly used data structures
 | [0006-zigzag-conversion](https://github.com/asifforizy/DSA-PYTHON/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/asifforizy/DSA-PYTHON/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/asifforizy/DSA-PYTHON/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/asifforizy/DSA-PYTHON/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/asifforizy/DSA-PYTHON/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0020-valid-parentheses) |
