@@ -14,6 +14,7 @@ This repository contains Python implementations of commonly used data structures
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/asifforizy/DSA-PYTHON/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/asifforizy/DSA-PYTHON/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/asifforizy/DSA-PYTHON/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
@@ -47,6 +48,7 @@ This repository contains Python implementations of commonly used data structures
 | [0016-3sum-closest](https://github.com/asifforizy/DSA-PYTHON/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asifforizy/DSA-PYTHON/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/asifforizy/DSA-PYTHON/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/asifforizy/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asifforizy/DSA-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
