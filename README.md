@@ -39,6 +39,7 @@ This repository contains Python implementations of commonly used data structures
 | [0029-divide-two-integers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/asifforizy/DSA-PYTHON/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asifforizy/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -154,6 +157,7 @@ This repository contains Python implementations of commonly used data structures
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asifforizy/DSA-PYTHON/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/asifforizy/DSA-PYTHON/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/asifforizy/DSA-PYTHON/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 ## Stack
