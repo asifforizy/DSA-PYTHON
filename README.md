@@ -40,6 +40,7 @@ This repository contains Python implementations of commonly used data structures
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/asifforizy/DSA-PYTHON/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/asifforizy/DSA-PYTHON/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ This repository contains Python implementations of commonly used data structures
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asifforizy/DSA-PYTHON/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/asifforizy/DSA-PYTHON/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/asifforizy/DSA-PYTHON/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -215,4 +217,8 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asifforizy/DSA-PYTHON/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/asifforizy/DSA-PYTHON/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
