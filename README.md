@@ -151,6 +151,7 @@ This repository contains Python implementations of commonly used data structures
 | [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asifforizy/DSA-PYTHON/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/asifforizy/DSA-PYTHON/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/asifforizy/DSA-PYTHON/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 ## Stack
