@@ -41,6 +41,7 @@ This repository contains Python implementations of commonly used data structures
 | [0066-plus-one](https://github.com/asifforizy/DSA-PYTHON/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/asifforizy/DSA-PYTHON/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/asifforizy/DSA-PYTHON/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/asifforizy/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ This repository contains Python implementations of commonly used data structures
 | [0010-regular-expression-matching](https://github.com/asifforizy/DSA-PYTHON/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/asifforizy/DSA-PYTHON/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -221,4 +223,8 @@ This repository contains Python implementations of commonly used data structures
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/asifforizy/DSA-PYTHON/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/asifforizy/DSA-PYTHON/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
