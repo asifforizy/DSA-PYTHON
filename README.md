@@ -20,6 +20,7 @@ This repository contains Python implementations of commonly used data structures
 | [0040-combination-sum-ii](https://github.com/asifforizy/DSA-PYTHON/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/asifforizy/DSA-PYTHON/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/asifforizy/DSA-PYTHON/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
@@ -220,6 +221,7 @@ This repository contains Python implementations of commonly used data structures
 | [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/asifforizy/DSA-PYTHON/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/asifforizy/DSA-PYTHON/tree/main/0046-permutations/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
