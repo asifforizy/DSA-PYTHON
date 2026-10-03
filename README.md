@@ -114,6 +114,7 @@ This repository contains Python implementations of commonly used data structures
 | [0005-longest-palindromic-substring](https://github.com/asifforizy/DSA-PYTHON/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/asifforizy/DSA-PYTHON/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/asifforizy/DSA-PYTHON/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/asifforizy/DSA-PYTHON/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/asifforizy/DSA-PYTHON/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@ This repository contains Python implementations of commonly used data structures
 | [0030-substring-with-concatenation-of-all-words](https://github.com/asifforizy/DSA-PYTHON/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/asifforizy/DSA-PYTHON/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/asifforizy/DSA-PYTHON/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/asifforizy/DSA-PYTHON/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/asifforizy/DSA-PYTHON/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
@@ -189,6 +191,7 @@ This repository contains Python implementations of commonly used data structures
 | [0021-merge-two-sorted-lists](https://github.com/asifforizy/DSA-PYTHON/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/asifforizy/DSA-PYTHON/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/asifforizy/DSA-PYTHON/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/asifforizy/DSA-PYTHON/tree/main/0044-wildcard-matching/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +209,7 @@ This repository contains Python implementations of commonly used data structures
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/asifforizy/DSA-PYTHON/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/asifforizy/DSA-PYTHON/tree/main/0044-wildcard-matching/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
