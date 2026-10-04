@@ -184,6 +184,7 @@ This repository contains Python implementations of commonly used data structures
 | [0043-multiply-strings](https://github.com/asifforizy/DSA-PYTHON/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/asifforizy/DSA-PYTHON/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/asifforizy/DSA-PYTHON/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/asifforizy/DSA-PYTHON/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
