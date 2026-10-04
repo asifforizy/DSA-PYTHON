@@ -24,6 +24,7 @@ This repository contains Python implementations of commonly used data structures
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/asifforizy/DSA-PYTHON/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ This repository contains Python implementations of commonly used data structures
 | [0045-jump-game-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/asifforizy/DSA-PYTHON/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/asifforizy/DSA-PYTHON/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -140,6 +142,7 @@ This repository contains Python implementations of commonly used data structures
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 | Problem Name | Difficulty |
