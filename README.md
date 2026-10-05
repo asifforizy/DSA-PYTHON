@@ -22,6 +22,7 @@ This repository contains Python implementations of commonly used data structures
 | [0045-jump-game-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/asifforizy/DSA-PYTHON/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/asifforizy/DSA-PYTHON/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/asifforizy/DSA-PYTHON/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/asifforizy/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/asifforizy/DSA-PYTHON/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0063-unique-paths-ii/) | Medium |
@@ -83,6 +84,7 @@ This repository contains Python implementations of commonly used data structures
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/asifforizy/DSA-PYTHON/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/asifforizy/DSA-PYTHON/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/asifforizy/DSA-PYTHON/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/asifforizy/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/asifforizy/DSA-PYTHON/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/asifforizy/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
@@ -108,6 +110,7 @@ This repository contains Python implementations of commonly used data structures
 | [0015-3sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/asifforizy/DSA-PYTHON/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asifforizy/DSA-PYTHON/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/asifforizy/DSA-PYTHON/tree/main/0049-group-anagrams/) | Medium |
 | [0268-missing-number](https://github.com/asifforizy/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -183,6 +186,7 @@ This repository contains Python implementations of commonly used data structures
 | [0038-count-and-say](https://github.com/asifforizy/DSA-PYTHON/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/asifforizy/DSA-PYTHON/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/asifforizy/DSA-PYTHON/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/asifforizy/DSA-PYTHON/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/asifforizy/DSA-PYTHON/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/asifforizy/DSA-PYTHON/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
