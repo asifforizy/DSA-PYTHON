@@ -261,4 +261,20 @@ This repository contains Python implementations of commonly used data structures
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/asifforizy/DSA-PYTHON/tree/main/0062-unique-paths/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/asifforizy/DSA-PYTHON/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/asifforizy/DSA-PYTHON/tree/main/0101-symmetric-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/asifforizy/DSA-PYTHON/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/asifforizy/DSA-PYTHON/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
