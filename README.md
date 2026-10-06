@@ -194,6 +194,7 @@ This repository contains Python implementations of commonly used data structures
 | [0065-valid-number](https://github.com/asifforizy/DSA-PYTHON/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/asifforizy/DSA-PYTHON/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/asifforizy/DSA-PYTHON/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 ## Stack
@@ -242,6 +243,7 @@ This repository contains Python implementations of commonly used data structures
 | [0040-combination-sum-ii](https://github.com/asifforizy/DSA-PYTHON/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/asifforizy/DSA-PYTHON/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/asifforizy/DSA-PYTHON/tree/main/0093-restore-ip-addresses/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
