@@ -132,6 +132,7 @@ This repository contains Python implementations of commonly used data structures
 | [0063-unique-paths-ii](https://github.com/asifforizy/DSA-PYTHON/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/asifforizy/DSA-PYTHON/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/asifforizy/DSA-PYTHON/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/asifforizy/DSA-PYTHON/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asifforizy/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@ This repository contains Python implementations of commonly used data structures
 | [0058-length-of-last-word](https://github.com/asifforizy/DSA-PYTHON/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/asifforizy/DSA-PYTHON/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/asifforizy/DSA-PYTHON/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/asifforizy/DSA-PYTHON/tree/main/0091-decode-ways/) | Medium |
 | [0165-compare-version-numbers](https://github.com/asifforizy/DSA-PYTHON/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asifforizy/DSA-PYTHON/tree/master/0166-fraction-to-recurring-decimal) |
 ## Stack
